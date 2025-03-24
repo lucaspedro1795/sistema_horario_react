@@ -1,7 +1,8 @@
 import Menu from "../../components/Menu/Menu";
 
-function Home(){
-    return(
+function Home() {
+
+    return (
         <div>
             <Menu />
             <h1>Home</h1>
