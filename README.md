@@ -1,4 +1,4 @@
-Bandeira - Horários Escolares
+#Bandeira - Horários Escolares
 
 O sistema Bandeira é um responsável por gerar horários escolares com a ajuda de Inteligência Artificial para analisar
 e projetar o horário ideal para sua escola.
