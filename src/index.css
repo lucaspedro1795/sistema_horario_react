@@ -20,4 +20,7 @@ body{
   width: 100vw;
   background: linear-gradient(185deg, var(--color4) , var(--color2));
   display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
